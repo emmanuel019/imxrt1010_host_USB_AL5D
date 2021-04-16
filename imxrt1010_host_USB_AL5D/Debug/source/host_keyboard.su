@@ -1,0 +1,8 @@
+host_keyboard.c:126:6:ADD_ON_AllocateVar	16	static
+host_keyboard.c:131:6:ADD_ON_UpdateVar	32	static
+host_keyboard.c:140:13:USB_HostKeyboardPrintKey	16	static
+host_keyboard.c:160:13:USB_HostKeyboardProcessBuffer	24	static
+host_keyboard.c:233:13:USB_HostHidInCallback	32	static
+host_keyboard.c:253:13:USB_HostHidControlCallback	32	static
+host_keyboard.c:279:6:USB_HostHidKeyboardTask	56	static
+host_keyboard.c:471:14:USB_HostHidKeyboardEvent	48	static
